@@ -19,7 +19,6 @@
 import {
   Dashboard,
   EditLiga,
-  Icons,
   ListLiga,
   TambahLiga,
   ListJersey,
